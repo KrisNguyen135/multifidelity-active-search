@@ -1,0 +1,6 @@
+data/
+.DS_Store
+results/*.csv
+process_molecules/
+results/
+.ipynb_checkpoints/
