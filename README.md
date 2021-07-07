@@ -2,7 +2,7 @@
 
 This repository contains code for:
 
-Quan Nguyen, Arghavan Modiri, Roman Garnett. Multifidelity Nonmyopic Active Search. ICML 2021. [INSERT LINK]().
+Quan Nguyen, Arghavan Modiri, Roman Garnett. Multifidelity Nonmyopic Active Search. ICML 2021. [https://arxiv.org/abs/2106.06356](https://arxiv.org/abs/2106.06356).
 
 ## Requirements
 
